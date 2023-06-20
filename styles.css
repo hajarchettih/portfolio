@@ -1,0 +1,126 @@
+body {
+  background-color: #F4F1E8;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  
+  padding: 20px;
+  text-align: center;
+}
+
+.logo {
+border-radius: 50%;
+width: 80px;
+height: 80px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 500%;
+  text-align:center;
+  font-family: 'Radley';
+  color: #000 ;
+}
+
+span {
+  color: #9B4819;
+}
+
+h2 {
+text-align: center;
+color: #000000;
+font-family: 'Carlito';
+font-size: 100%;
+font-style: italic;
+}
+
+
+h3 {
+  font-family: 'Radley';
+  font-size: 300%;
+  color: #9B4819;
+  
+}
+
+p {
+ 
+  font-size: 120%;
+  color: #000000;
+  font-family: 'Carlito';
+
+}
+
+.img-fluid {
+  width: 500px; 
+  margin-left: 20%;
+  border-top-right-radius: 10%;
+  border-top-left-radius: 10%;
+}
+
+
+.date,.skills{
+  font-family: 'Radley';
+  font-size: 200%;
+
+}
+.custom-line {
+  width: 50%; 
+  margin-left: auto; 
+  margin-right: auto;
+  border: none; 
+  background-color: #9B4819; 
+  height: 3px; 
+}
+
+
+.formation {
+  font-family: 'Carlito';
+  font-size: 150%;
+
+}
+
+.img {
+  width: 250px;
+  margin-left: 20%;
+}
+
+.description {
+  font-family: 'Carlito';
+  font-size: 100%;
+
+}
+section {
+padding-bottom: 10%;
+
+}
+
+h5 {
+text-align: center;
+font-family: 'Carlito';
+font-weight: bold;
+}
+
+.card-title {
+font-family: 'Radley';
+}
+
+.card-text {
+font-family: 'Carlito';
+font-size:medium;
+}
+
+.custom-link {
+color: black;
+}
+
+
+
+footer {
+  background-color: #c9ada7;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Carlito';
+}
